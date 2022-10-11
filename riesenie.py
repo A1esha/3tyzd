@@ -125,4 +125,4 @@ def kalendar(datum):
             if i % 7 == 0:
                 print()
 
-#календарик
+#календарь
