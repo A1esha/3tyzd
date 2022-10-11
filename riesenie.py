@@ -124,3 +124,5 @@ def kalendar(datum):
             print("{:3d}".format(i-day), end=' ')
             if i % 7 == 0:
                 print()
+
+#календарик
